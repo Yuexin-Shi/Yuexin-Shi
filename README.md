@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yuexin Shi 👋
 
-<!--
-**Yuexin-Shi/Yuexin-Shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming MSc Statistics student at the University of Manchester.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Model Risk and Model Validation
+- Machine Learning
+- Quantitative Analytics
+- Operations Research
+
+## Skills
+
+- Python, SQL and R
+- Pandas, NumPy and Scikit-learn
+- Statistical Modelling
+- Time Series Analysis
+- Data Visualisation
+
+## Education
+
+- MSc Statistics, University of Manchester, 2026–2027
+- BSc (Hons) Statistics, Beijing Normal-Hong Kong Baptist University
+
+## Projects
+
+Projects are coming soon.
+
+## Contact
+
+- Email: shiyuexin2026@163.com
