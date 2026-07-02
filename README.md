@@ -29,3 +29,7 @@ Projects are coming soon.
 ## Contact
 
 - Email: shiyuexin2026@163.com
+
+## Resume
+
+[View my resume](./Yuexin_Shi_Resume.pdf)
