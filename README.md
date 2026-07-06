@@ -24,7 +24,9 @@ Incoming MSc Statistics student at the University of Manchester.
 
 ## Projects
 
-Projects are coming soon.
+### [Credit Risk Model Validation](https://github.com/Yuexin-Shi/credit-risk-model-validation)
+
+An end-to-end credit risk modelling and model validation project using Python.
 
 ## Contact
 
